@@ -2,7 +2,7 @@
 A compact, battery-powered environmental monitoring device built with the ESP32. It measures temperature, humidity, and pressure using AHT20 and BME280 sensors, displaying real-time data on a colorful TFT screen. Designed for portability and versatility, it supports both USB-C and Li-Po power, making it perfect for personal, educational, or IoT development use.
 
 
-
+![Haunting Eyes Project](Pictures/6089351276350082053.jpg)
 
 
 
